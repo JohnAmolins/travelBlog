@@ -2,13 +2,31 @@
     list-style-type: none;
 }
 
-body{
+/* body{
     width: 75%;
     height: auto;
     margin-left: auto;
     margin-right: auto;
     margin-top: 30px;
-}
+} */
+
 img{
     margin: 20 0;
+}
+
+.card{
+    margin: 30px 0;
+}
+
+
+#contactFooter{
+    background: #003973;  
+    background: -webkit-linear-gradient(to right, #E5E5BE, #003973); 
+    background: linear-gradient(to right, #E5E5BE, #003973); 
+    color: white;
+    padding: 30px;
+}
+
+#contactFooterHeadin{
+    padding-top: 30px;
 }
