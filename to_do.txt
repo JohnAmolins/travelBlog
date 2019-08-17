@@ -1,0 +1,1 @@
+1. make text change according to screen size  (@media)
