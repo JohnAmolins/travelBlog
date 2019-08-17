@@ -1,1 +1,5 @@
 1. make text change according to screen size  (@media)
+
+2. Fix overlay text on HEADING images
+
+3. make all Card images equeal
