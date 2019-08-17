@@ -27,6 +27,11 @@ img{
     padding: 30px;
 }
 
+#contactFooter small{
+    margin-bottom: 20px;
+}
+
 #contactFooterHeadin{
     padding-top: 30px;
 }
+
