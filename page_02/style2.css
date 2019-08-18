@@ -44,8 +44,23 @@
     bottom: 90px;
     right: 30px;
     cursor: pointer;
-    border: 1px red solid;
     border-radius: 50%;
+    z-index: 1;
 
   }
   
+.container:after {
+    content: ' ';
+    display: block;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+    opacity: 0.8;
+    background: url('../media/main_cover.jpg') no-repeat center center fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+  } 
+
