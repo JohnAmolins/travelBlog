@@ -61,7 +61,7 @@ body{
     height: 100%;
     z-index: -1;
     opacity: 0.8;
-    background: url('../media/main_cover.jpg') no-repeat center center fixed;
+    background: url('../media/drone_background01.jpg') no-repeat center center fixed;
     background-repeat: no-repeat;
     background-size: cover;
   } 
