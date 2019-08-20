@@ -49,9 +49,10 @@
 
   }
   
-.container:after {
+/* .container:after {
     content: ' ';
     display: block;
+    display: none;
     position: absolute;
     left: 0;
     top: 0;
@@ -62,5 +63,11 @@
     background: url('../media/main_cover.jpg') no-repeat center center fixed;
     background-repeat: no-repeat;
     background-size: cover;
-  } 
+  }  */
 
+  body {
+    background-image: url('../media/main_cover.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* background-attachment: fixed; */
+  } 
