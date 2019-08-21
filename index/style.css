@@ -72,5 +72,14 @@ img{
     display: block;
     /* adjust 'height' to position overlay content vertically */
     height: 50%;
-  }
+}
+
+.card {
+    min-height: 300px;
+}
+
+.card img{
+    min-height: 160px;
+}
+
 

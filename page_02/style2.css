@@ -65,9 +65,17 @@
     background-size: cover;
   }  */
 
-  body {
+body {
     background-image: url('../media/main_cover.jpg');
     background-repeat: no-repeat;
     background-size: cover;
-    /* background-attachment: fixed; */
-  } 
+    background-attachment: fixed;
+} 
+
+.card {
+    min-height: 300px;
+}
+
+.card img{
+    min-height: 160px;
+}
